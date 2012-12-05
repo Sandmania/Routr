@@ -1,0 +1,18 @@
+# Maven #
+#########
+target/
+
+# eclipse #
+###########
+.classpath
+.project
+.settings
+
+# mercurial #
+#############
+.hg/
+.hgignore
+
+# generated #
+#############
+.apt_generated
